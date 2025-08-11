@@ -1,2 +1,2 @@
-# sao-paulo-web-app
-Arquivos do projeto para análise de dados de São Paulo
+# sao-paulo-properties-april-2019
+Predict fair rental prices for apartments in São Paulo using regression.
